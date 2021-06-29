@@ -1,0 +1,28 @@
+.products {
+  width: 90%;
+  max-width: 1440px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 67px 132px;
+  color: #616161;
+  background: #f9f9f9;
+}
+.products__nav {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  font-size: 28px;
+  margin: 0px 24px 30px 24px;
+  padding: 0px 0px 24px 0px;
+  border-bottom: 2px #d9d9d9 solid;
+}
+.products__pagination {
+  margin-right: 24px;
+}
+.products__filter {
+  padding-left: 24px;
+  color: #a3a3a3;
+  border-left: 2px #d9d9d9 solid;
+  margin-right: 24px;
+}

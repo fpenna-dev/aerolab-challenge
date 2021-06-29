@@ -1,0 +1,23 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+body {
+  background: #eceef3;
+  padding-top: 50px;
+}
+
+#teleport {
+  /* background: rgba(0, 0, 0, 0.7); */
+  /* width: 100vw;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  z-index: 1; */
+}
